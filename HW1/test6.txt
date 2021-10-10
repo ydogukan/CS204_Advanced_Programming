@@ -1,0 +1,4 @@
+-2 2
+puzzle 1 1 l CW
+apple 3 2 d CCW
+four 3 0 u CCW

@@ -1,0 +1,3 @@
+3 5
+fructosamine 1 2 r CCW
+cryptoxanthin 0 0 l CW

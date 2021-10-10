@@ -1,0 +1,9 @@
+5 5
+sample 0 0 r CW
+puzzle 0 1 d CW
+puzzle 1 1 l CW
+apple 3 2 d CCW
+four 3 0 u CCW
+one 2 3 r CW
+one 1 3 r CW
+a 3 3 l CW

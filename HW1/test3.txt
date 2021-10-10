@@ -1,0 +1,5 @@
+5 5
+fructosamine 1 0 r CCW
+fructosamine 1 0 r CW
+trouble 0 0 r CW
+trouble 2 2 r CW
